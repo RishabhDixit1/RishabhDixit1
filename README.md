@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhdixit1" alt="rishabhdixit1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dixitrishabh1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dixitrishabh1?logo=twitter&style=for-the-badge" alt="https://twitter.com/dixitrishabh1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dixitrishabh1" target="blank"><img src="https://img.shields.io/twitter/follow/dixitrishabh1?logo=twitter&style=for-the-badge" alt="dixitrishabh1" /></a> </p>
 
 - 🔭 I’m currently working on [Real Time Face Expression Detection](https://github.com/RishabhDixit1/MyFaceExpressionDetectionApplication.git)
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dixitrishabh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dixitrishabh1" height="30" width="40" /></a>
+<a href="https://twitter.com/dixitrishabh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitrishabh1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/rishabh-dixit-789887225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/rishabh-dixit-789887225" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/dixit.hrishabh?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dixit.hrishabh?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/rishabh_dixit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh_dixit1" height="30" width="40" /></a>
@@ -44,4 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhdixit1&show_icons=true&locale=en" alt="rishabhdixit1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdixit1&" alt="rishabhdixit1" /></p>
-
