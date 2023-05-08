@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **dixitrishabh192@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rishabh-shankar-dixit-789887225/overlay/1635517685697/single-media-viewer?type=DOCUMENT&profileId=ACoAADiMa5kBL8g4VyCyJCp4qP92SzWDZqyxuZE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BAoDVQdMISnWWPyOu4WHvQw%3D%3D](https://www.linkedin.com/in/rishabh-shankar-dixit-789887225/overlay/1635517685697/single-media-viewer?type=DOCUMENT&profileId=ACoAADiMa5kBL8g4VyCyJCp4qP92SzWDZqyxuZE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BAoDVQdMISnWWPyOu4WHvQw%3D%3D)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rishabh-shankar-dixit-789887225
 
 - ⚡ Fun fact **I love to Plants, Trees, Flowers and Nature**
 
