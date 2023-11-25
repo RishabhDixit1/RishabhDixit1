@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Web Development (Html, CSS, JavaScript), Java Programming Language With Data Structures And Algorithms**
 
-- 👯 I’m looking to collaborate on [GSOC 2023](https://summerofcode.withgoogle.com/programs/2023)
-
-- 🤝 I’m looking for help with [OpenMrs](https://openmrs.org/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
 
 - 📝 I regularly write articles on [http://www.linkedin.com/in/rishabh-dixit-789887225](http://www.linkedin.com/in/rishabh-dixit-789887225)
